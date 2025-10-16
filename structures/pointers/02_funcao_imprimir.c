@@ -25,7 +25,6 @@ int main()
     *ptr_xi = 30; // altera xi através do ponteiro
     imprimir();   // confirma que xi agora é 30
 
-    system("pause");
     return 0;
 }
 
