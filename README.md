@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![Mood](https://img.shields.io/badge/mood-studying%20hard-red)
-![Progress](https://img.shields.io/badge/progress-69%25-green)
+![Mood](https://img.shields.io/badge/mood-studying_hard-red)
+![Progress](https://img.shields.io/badge/progress-69%-green)
 
 ## **_college C language studies_**
 
@@ -131,13 +131,5 @@ gcc -std=c11 -Wall queue/03_fila_circular.c -o bin/03_fila_circular
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="100"/>
 </p>
-
----
-
----
-
----
-
----
 
 **_MIT_** © **[Eduardo Tashiro](https://www.linkedin.com/in/eduardo-tashiro-192096362/)**
