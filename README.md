@@ -140,4 +140,4 @@ gcc -std=c11 -Wall queue/03_fila_circular.c -o bin/03_fila_circular
 
 ---
 
-**_MIT_** © **[Eduardo Tashiro](https://github.com/eduardotashiro)**
+**_MIT_** © **[Eduardo Tashiro](https://www.linkedin.com/in/eduardo-tashiro-192096362/)**
