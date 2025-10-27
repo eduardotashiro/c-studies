@@ -24,16 +24,16 @@ int pop()
         printf("PILHA VAZIA!\n");
         return -1; // Retorna -1 para indicar erro
     }
-    int valor = pilha[topo];
-    topo--;                  // Move o topo uma posição para baixo (removendo o último elemento)
-    return pilha[topo];      // Retorna o valor que estava no topo
+    int valor = pilha[topo]; // guarda o valor do topo
+    topo--;                  // move o topo uma posição para baixo
+    return valor;            // retorna o valor removido
 }
 
 void imprimir()
 {
     printf("Pilha: ");
     for (int i = 0; i <= topo; i++) // Percorre do início até o topo atual
-        printf("%d ", pilha[i]);   // Mostra cada valor empilhado
+        printf("%d ", pilha[i]);    // Mostra cada valor empilhado
     printf("\n");
 }
 
