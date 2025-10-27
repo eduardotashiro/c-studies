@@ -1,6 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Mood](https://img.shields.io/badge/mood-studying_hard-red)
-![Progress](https://img.shields.io/badge/progress-69%-green)
+![Progress](https://img.shields.io/badge/progress-69%25-green)
 
 ## **_college C language studies_**
 
