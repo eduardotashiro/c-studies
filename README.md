@@ -16,18 +16,40 @@ Este README explica o propósito da pasta `structures` e **como qualquer pessoa 
 
 ## Estrutura do diretório
 
+
 ```
-structures/
-├─ graph/       # exercícios sobre grafos
-├─ matrices/    # exercícios sobre matrizes
-├─ pointers/    # exercícios sobre ponteiros
-├─ queue/       # arquivos fonte .c (ex: 03_fila_circular.c)
-├─ stack/       # exercícios sobre pilhas
-├─ tree/        # exercícios sobre árvores
-├─ vectors/     # exercícios sobre vetores
-├─ bin/         # executáveis gerados (não versionar no Git)
-.gitignore      # arquivos a ignorar
-README.md       # arquivo que vc está lendo agora
+├── structures
+│   ├── graph
+│   │   └── grafo.c
+│   ├── matrices
+│   │   └── main.c
+│   ├── pointers
+│   │   ├── 01_basico.c
+│   │   ├── 02_funcao_imprimir.c
+│   │   ├── 03_variaveis_tipos.c
+│   │   ├── 04_alocacao_dinamica.c
+│   │   ├── 05_vetor_dinamico.c
+│   │   └── README.md
+│   ├── queue
+│   │   ├── 01_basico.c
+│   │   ├── 02_menu_interativo.c
+│   │   ├── 03_fila_circular.c
+│   │   ├── 04_caracteres.c
+│   │   ├── 05_fila_strings.c
+│   │   └── README.md
+│   ├── stack
+│   │   ├── 01_basico.c
+│   │   ├── 02_menu_interativo.c
+│   │   ├── 03_caracteres.c
+│   │   ├── 04_utilizando_peek.c
+│   │   └── README.md
+│   ├── tree
+│   │   ├── arvore_binaria_basica.c
+│   │   └── arvore_binaria_completa.c
+│   └── vectors
+│       └── main.c
+├── .gitignore
+└── README.md
 ```
 
 ## Pré-requisitos
