@@ -10,6 +10,7 @@
 
 Eduardo acabou reprovando em Estruturas de Dados uma vez, e espera **nunca mais passar por isso novamente** 😅
 
+(SIM, EU PASSEI!! :tada: )
 ## Objetivo
 
 Este README explica o propósito da pasta `structures` e **como qualquer pessoa pode compilar e executar os programas localmente**.
